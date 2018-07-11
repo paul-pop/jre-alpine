@@ -6,3 +6,4 @@
 Build: [![CircleCI](https://circleci.com/gh/paul-pop/jre-alpine.svg?style=svg)](https://circleci.com/gh/paul-pop/jre-alpine)
 
 This image will install cURL on top of the JRE (Alpine distribution) and change the root directory.
+
